@@ -1,4 +1,4 @@
-# Pomar API
+# Lista de tarefa
 
 Lista de tarefa é uma aplicação desenvolvida para gerenciar atividades.
 
